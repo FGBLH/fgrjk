@@ -57,17 +57,6 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-        {
-			"key": "hpy_js_豆瓣[官]",
-			"name": "🐙豆瓣视频｜追剧",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/豆瓣[官].js"
-		},
         {    
             "key": "热播影视",
             "name": "🐙热播影视｜追剧",
@@ -79,13 +68,6 @@
             "ext": {
                 "url": "http://v.rbotv.cn"
             }
-        },
-        {
-             "key": "猫抓",
-             "name": "🐙猫抓影视｜追剧",
-             "type": 3,"jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
-             "api": "csp_AppGet",
-             "ext": "https://dy.8ttv.cn|1111111111111111"
         },
         {
             "key":"瓜子",
@@ -347,11 +329,6 @@
                 }
             }
         },  
-     {
-"name": "4k解析",
-"type": 1,
-"url": "http://103.163.47.120:7777/api/?key=yvgfYsmenad7cqm4b2&url="
-},
        {
            "name": "HD3",
             "type": 0,
@@ -362,16 +339,6 @@
          }
        }
      },
-        {
-            "name": "夏夜4k",
-            "type": 1,
-            "url": "http://8.155.50.80/xiayexk.php?url=",
-            "ext": {
-            "header": {
-            "User-Agent": "okhttp/4.9.1"
-         }
-       }
-    },
     {
       "group": "软解码",
       "options": [
