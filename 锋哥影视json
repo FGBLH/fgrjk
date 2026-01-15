@@ -508,6 +508,12 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
         },
         {
+            "name": "🐙iptvpro直播2",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro2"
+        },
+        {
             "name": "🐙斯玛特直播1",
             "type": 0,
             "ua": "okhttp/5.3.2",
