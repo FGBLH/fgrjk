@@ -288,7 +288,7 @@
          {
             "key": "番号资源|AV",
             "name": "🔞番号资源|AV",
-            "type": 3,
+            "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/",
             "quickSearch": 1,
             "searchable": 1,
