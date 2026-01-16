@@ -4,7 +4,59 @@
     "wallpaper":"http://tool.teyonds.com/api",
     "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
     "sites": [
-
+          {
+        "key":"爱奇艺弹幕",
+        "name":"🐙爱奇艺视频｜追剧",
+        "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+        "type":3,
+        "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+         "searchable":1,
+         "quickSearch":0,
+         "changeable":1,
+         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/爱奇艺弹幕.js"
+         },
+         {
+         "key":"优酷弹幕",
+         "name":"🐙优酷视频｜追剧",
+         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+         "type":3,
+         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+         "searchable":1,
+         "quickSearch":0,
+         "changeable":1,
+         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/优酷弹幕.js"
+         },
+         {"key":"腾讯弹幕",
+         "name":"🐙腾讯视频｜追剧",
+         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+         "type":3,
+         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+         "searchable":1,
+         "quickSearch":0,
+         "changeable":1,
+         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/腾讯弹幕.js"
+         },
+         {
+         "key":"芒果弹幕",
+         "name":"🐙芒果视频｜追剧",
+         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+          "type":3,
+          "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+          "searchable":1,
+          "quickSearch":0,
+          "changeable":1,
+           "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/芒果弹幕.js"
+           },
+        {"key": "sgys",
+        "name": "🐙搜狗视频｜追剧",
+        "type": 3,
+        "api": "MJS_sgys",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
+        "api": "http://www.meowtv.cn/js/drpy2.min.js"
+        },
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
