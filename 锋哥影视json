@@ -283,12 +283,13 @@
 			"api": "https://learnpython.ggff.net/XHSM",
 			"key": "XHSM",
 			"name": "🐙瑟佬传媒系列｜🔞",
-			"type": 4
+            "type": 4
 		},
           {
             "api": "https://thzy1.me/api.php/provide/vod/",
             "key": "桃花资源|AV",
             "name": "🐙桃花资源🔞",
+            "ua": "okhttp/5.3.2",
             "type": 4
         }
         ],
@@ -345,10 +346,6 @@
          }
        }
      },
-           "header": {
-                "User-Agent": "okhttp/3.12.0"
-            }
-        },
     {
             "name": "默认1",
             "type": 1,
