@@ -296,7 +296,7 @@
             "filterable": 0
         },
           {"key": "91视频","name": "91视频🎦影院",
-      "type": 3,"api": "csp_XBPQ",
+      "type": 1,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
