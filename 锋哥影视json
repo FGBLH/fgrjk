@@ -284,7 +284,16 @@
 			"key": "XHSM",
 			"name": "🐙瑟佬传媒系列｜🔞",
             "type": 4
-		}
+		},
+         {
+            "key": "番号资源|AV",
+            "name": "🔞番号资源|AV",
+            "type": 4,
+            "api": "http://fhapi9.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        }
         ],
     "parses": [ 
           {
