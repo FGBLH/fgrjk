@@ -311,7 +311,33 @@
             "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
-        }
+        },
+          {"key": "91视频","name": "91视频🎦影院",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+       "数组":"<section class=\"item-box\">&&</a>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	   "副标题": "<small>&&</small>",
+	    "简介": "★本站公告★：合理安排时间看片，享受健康生活。撸一撸  注意身体",
+	   "播放数组":"<div class=\"v_con_box\">&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	
+        "搜索url":"https://www.15av.me/vodsearch/{wd}/page/{pg}.html",
+		 "搜索链接前缀":"https://www.15av.me/vodplay/",
+       "搜索链接后缀":"-1-1.html",
+       "分类url": "https://www.15av.me/vodtype/{cateId}-{catePg}.html",
+    
+	   "分类数组": "<li class=\"col-3 col-m-6 mb15\">&&</li>",
+       "分类标题": "<p>&&</p>",
+       "分类ID": "/vodtype/&&.html"
+      }}
         ],
     "parses": [ 
           {
