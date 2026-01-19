@@ -130,7 +130,51 @@
         },
 {"name":"🐙小苹果🍎｜追剧","key":"小苹果丨影视","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐙厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-		{
+		  {
+      "key": "玩偶",
+      "name": "🐙玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746289852339/f0504.txt;md5;42ef09340295f4070cedad37bf759ef3",
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.com/",
+        "danMu": "弹"
+      }
+    },
+    {
+  "key":"糯米影视",
+  "name":"🐙糯米┃影视",
+  "type":3,
+  "api":"csp_Wwys",
+  "ext":"https://www.wwgz.cn",
+  "jar": "https://700sjro44343.vicp.fun/vip/jar/ouge.php"
+  },
+     {
+      "key": "低端影视",
+      "name": "🐙低端|影视🎬",
+      "type": 3,
+      "api": "csp_Ddys",
+      "jar": "https://lz.qaiu.top/d/lz/i5MYu2p7cxoj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "公众号",
+      "name": "🐙4K|影视",
+      "type": 3,
+      "jar": "https://lz.qaiu.top/d/lz/isqWQ2hstv0d",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+    },
+        {
 			"api": "https://learnpython.ggff.net/XHYSPY",
 			"key": "XHYSPY",
 			"name": "🐙XHYSPY｜追剧",
