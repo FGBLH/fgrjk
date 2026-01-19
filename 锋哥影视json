@@ -146,28 +146,10 @@
 			"name": "🐙嗷呜爱瓜TV｜追剧",
 			"type": 4
 		},
-        {
-			"api": "https://learnpython.ggff.net/4K",
-			"key": "4K",
-			"name": "4KAV",
-			"type": 4
-		},
 		{
 			"api": "https://learnpython.ggff.net/XHYSPY",
 			"key": "XHYSPY",
-			"name": "XHYSPY",
-			"type": 4
-		},
-		{
-			"api": "https://learnpython.ggff.net/XPGGGGG",
-			"key": "XPGGGGG",
-			"name": "XPG",
-			"type": 4
-		},
-		{
-			"api": "https://learnpython.ggff.net/4KVMYS",
-			"key": "4KVMYS",
-			"name": "4KVMYS",
+			"name": "🐙XHYSPY｜追剧",
 			"type": 4
 		},
 {"name":"🐙豪堪短剧🎦｜短剧","key":"豪堪短剧","type":3,"api":"csp_HHkkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
