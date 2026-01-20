@@ -58,6 +58,15 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
+        {
+      "key": "柠檬",
+      "name": "🐙柠檬｜追剧",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "http://14.103.129.80:999/奇迹云2kmax/jar/柠檬.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+      },
         {    
             "key": "热播影视",
             "name": "🐙热播影视｜追剧",
