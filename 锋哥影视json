@@ -622,12 +622,6 @@
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"
         },
-       {
-            "name": "🐙奥台",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://15280.kstore.space/奥台.txt"
-        },
         {
             "name": "🐙港台大陆频道",
             "type": 0,
