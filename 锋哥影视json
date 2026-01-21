@@ -58,6 +58,39 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
+        {
+      "key": "量子2k",
+      "name": "🐙量子影视｜追剧",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:https://lziplayer.com/?url=",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+      },
+        {
+            "key": "绝对影视",
+            "name": "🐙绝对影视｜追剧",
+            "type": 3,
+            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_FourK",
+            "ext": "https://www.4kvm.tv"
+        },
       {
       "key": "柠檬",
       "name": "🐙柠檬｜追剧",
