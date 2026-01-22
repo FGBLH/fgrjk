@@ -268,6 +268,15 @@
             "searchable": 1,
             "filterable": 0
         },
+         {
+            "key": "91shipin",
+            "name": "🐙91视频｜🔞",
+            "type": 1,
+            "api": "https://91av.cyou/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
         {
             "key": "桃花资源|AV",
             "name": "🐙桃花资源｜🔞",
