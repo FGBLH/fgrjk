@@ -268,24 +268,6 @@
             "searchable": 1,
             "filterable": 0
         },
-         {
-            "key": "黄色仓库|AV",
-            "name": "🐙黄色仓库(新)｜🔞",
-            "type": 1,
-            "api": "https://hsckzy888.com/api.php/provide/vod/at/xml/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
-        },
-         {
-            "key": "91视频|AV",
-            "name": "🐙91视频｜🔞",
-            "type": 1,
-            "api": "https://91av.cyou/api.php/provide/vod/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
-        },
         {
             "key": "桃花资源|AV",
             "name": "🐙桃花资源｜🔞",
