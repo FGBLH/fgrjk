@@ -103,6 +103,18 @@
             "quickSearch": 1,
             "ext": "http://m51.gotto.top/api.php/v1.vod"
         },
+        {
+			"key": "T4-bulei111",
+			"name": "🐙布雷｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/bulei.php"
+		},
+		{
+			"key": "T4-huaxiaozhu111",
+			"name": "🐙花小猪｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/huaxiaozhu.php"
+		},
       {
       "key": "量子2k",
       "name": "🐙量子影视｜追剧",
