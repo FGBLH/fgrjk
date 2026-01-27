@@ -109,6 +109,24 @@
 			"type": 4,
 			"api": "https://catbox.n13.club/t9/huaxiaozhu.php"
 		},
+        {
+			"key": "T4-jimi",
+			"name": "🐙吉米｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/jimi.php"
+		},
+		{
+			"key": "T4-batian",
+			"name": "🐙八天｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/batian.php"
+		},
+		{
+			"key": "T4-tianfeng",
+			"name": "🐙天峰｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/tianfeng.php"
+		},
       {
       "key": "量子2k",
       "name": "🐙量子影视｜追剧",
