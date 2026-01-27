@@ -386,15 +386,6 @@
             "filterable": 0
         },
         {
-            "key": "草榴短视频",
-            "name": "🐙草榴短视频｜🔞",
-            "type": 1,
-            "api": "https://raw.githubusercontent.com/lang999/csdown/refs/heads/main/rules/%E8%8D%89%E6%A6%B4%E7%9F%AD%E8%A7%86%E9%A2%91.js",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
-        },
-        {
             "key": "91",
             "name": "🐙91麻豆｜🔞(梯子)",
             "type": 1,
