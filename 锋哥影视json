@@ -228,9 +228,6 @@
         },
 {"name":"🐙小苹果🍎｜追剧","key":"小苹果丨影视","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐙厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-{"key":"小飒","name":"🐙小飒┃4K","type":3,"jar":"https://wp.kayyw.com/f/d/XOzgHZ/1.jar","api":"csp_XsayangGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
-{"key":"虎斑","name":"🐙虎斑┃4K","type":3,"jar":"https://wp.kayyw.com/f/d/XOzgHZ/1.jar","api":"csp_HuBanGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
-{"key":"木偶","name":"🐙木偶┃4K","type":3,"jar":"https://wp.kayyw.com/f/d/XOzgHZ/1.jar","api":"csp_MuouGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
 {"name":"🐙豪堪短剧🎦｜短剧","key":"豪堪短剧","type":3,"api":"csp_HHkkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐙盒马短剧📺｜短剧","key":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐙拜拜短剧🎞️｜短剧","key":"拜拜短剧","type":3,"api":"csp_BddjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
@@ -398,7 +395,9 @@
         }
         ],
     "parses": [ 
-           {
+{"name":"蜗牛解析","type":1,"url":"http://175.178.118.205:3302/api/?key=nZV75E7qb8s7tktEik&url=","ext":{"flag":["JSGZ","JSXL","JSJP"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"尘墨4K","type":1,"url":"https://52xiaobai.cn/jx.php?name=尘墨4K&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.1.0","User-TOEN":"123123"}}},
+          {
              "name": "虾米解析",
              "type": 0,
               "url": "https://jx.xmflv.cc/?url="
