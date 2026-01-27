@@ -386,14 +386,14 @@
             "filterable": 0
         },
         {
-"title": "麻豆女优",
-"api": "http://randomapi03.changfapiaopiao.top",
-"platform": "video2/wanoujiejie/md",
-"type": "视频",
-"kuan": 250,
-"gao": 150,
-"lieshu": 1
-},
+            "key": "麻豆女优",
+            "name": "🐙麻豆女优｜🔞",
+            "type": 1,
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
         {
             "key": "91",
             "name": "🐙91麻豆｜🔞(梯子)",
