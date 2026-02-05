@@ -693,6 +693,12 @@
             "ua": "okhttp",
             "url": "https://tv.iill.top/m3u/Gather"
         },
+        {
+            "name": "🐙唐三海马",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://tang.hz.cz/api/user?token=7904e0b5"
+        },
          {
             "name": "🐙iptvpro",
             "type": 0,
