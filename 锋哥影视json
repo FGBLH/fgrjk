@@ -702,7 +702,7 @@
             "url": "https://tv.iill.top/m3u/MyTV"
         },
         {
-            "name": "🐙iptvpro",
+            "name": "🐙iptvpro🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro.txt"
@@ -719,6 +719,18 @@
             "ua": "okhttp",
             "url": "https://im5k.fun/vip.m3u"
         },
+         {
+            "name": "🐙综合直播源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://www.xymm.de5.net:8080/live.m3u"
+        },
+         {
+            "name": "🐙台湾立视(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾立视"
+        },
         {
             "name": "🐙jackTV(梯子)",
             "type": 0,
@@ -732,13 +744,13 @@
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
          {
-            "name": "🐙安博(梯子)",
+            "name": "🐙安博(梯子)🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博"
         },
         {
-            "name": "🐙港台大陆频道",
+            "name": "🐙港台大陆频道🔞",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"
@@ -750,7 +762,7 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"
         },
         {
-            "name": "🐙xxx视频资源",
+            "name": "🐙xxx视频资源🔞",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
