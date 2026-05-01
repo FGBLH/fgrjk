@@ -169,15 +169,27 @@
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
 		},
         {
-			"key": "market",
-			"name": "🐙OK影视应用更新",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
-		},
+            "key": "🈲🔞Pornhub.py",
+            "name": "🐙Pornhub｜🔞",
+            "type": 3,
+            "api": "https://od.lk/s/NjFfMTEyNjI0NTIzXw/Pornhub.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "🈲🔞Xvideos.py",
+            "name": "🐙Xvideos｜🔞",
+            "type": 3,
+            "api": "https://od.lk/s/NjFfMTEyNjA1NTkzXw/xvideo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+         },
          {
             "key": "黄色仓库|AV",
             "name": "🐙黄色仓库(旧)｜🔞",
