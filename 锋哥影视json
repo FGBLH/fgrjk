@@ -187,6 +187,22 @@
             "searchable": 1,
             "filterable": 0
         },
+         
+           {
+            "key": "csp_XYQHiker_黄色仓库123",
+            "name": "🐙黄色仓库｜🔞",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://files.catbox.moe/2vr6o9.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
          {
             "key": "桃花资源|AV",
             "name": "🐙桃花资源｜🔞",
@@ -234,21 +250,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 0
-        },
-           {
-            "key": "csp_XYQHiker_黄色仓库123",
-            "name": "🐙黄色仓库｜🔞",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://files.catbox.moe/2vr6o9.png",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
         },
         {
             "key": "91",
