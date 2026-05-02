@@ -124,42 +124,6 @@
          ]
          },  
         {
-      "key": "王子4K",
-      "name": "🙆王子┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://app.95112475.xyz",
-        "datakey": "5a9w6x58dsq6z3a6"
-      }
-    },
-    {
-      "key": "极境视频",
-      "name": "🦠极境┃APP",
-      "type": 3,
-      "api": "csp_Hmys",
-      "ext": {
-        "host": "https://dy.stxbed.com",
-        "app_id": "jijing",
-        "deviceid": "cf95610dfb758d63",
-        "versionCode": "10000",
-        "UMENG_CHANNEL": "zhuan"
-      }
-    },
-    {
-      "key": "瞬启视频",
-      "name": "🌂瞬启┃APP",
-      "type": 3,
-      "api": "csp_Hmys",
-      "ext": {
-        "host": "https://dy.oogsy.com/",
-        "app_id": "shunqi",
-        "deviceid": "670cf3a52bc2452f",
-        "versionCode": "10000",
-        "UMENG_CHANNEL": "zhuan"
-      }
-    },
-        {
 			"key": "网易云音乐",
 			"name": "🐙网易云｜音乐",
 			"type": 3,
