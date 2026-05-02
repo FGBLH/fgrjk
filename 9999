@@ -759,12 +759,7 @@
     }
   ],
   "rules": [
-   {
-             "name": "虾米解析",
-             "type": 0,
-              "url": "https://jx.xmflv.cc/?url="
-           },
-{"name":"云解析",
+   {"name":"云解析",
         "type":0,
         "url":"https://yparse.ik9.cc/index.php?url=",
         "ext":{
