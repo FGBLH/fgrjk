@@ -39,12 +39,6 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-{"key":"七味","name":"🌈七味┃在线","type": 3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"sp": "QiWei"}, "timeout": 30},
-    {"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "ext": {"sp": "Guazi"}, "timeout": 10},
-    {"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "ext": {"sp": "Jpys"}, "timeout": 10},
-    {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"sp": "Nmys"}, "timeout": 10},
-    {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"sp": "TianTian", "site": 0}, "timeout": 10},
-    {"key":"奇奇","name":"🐵奇奇┃App","type": 3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "QiQi"}, "timeout": 10},
       {
       "key": "量子2k",
       "name": "🐙量子影视｜追剧",
