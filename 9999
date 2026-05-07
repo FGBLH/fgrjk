@@ -3,17 +3,7 @@
 	"homepage": "https://github.com/hjdhnx/hipy-server",
 	"homeLogo": "./img/logo500x200-1.png",
 	"spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
-	"sites": [
-         {
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "./json/tokenm.json",
-			"order_num": 9999
-		},		
+	"sites": [	
 		{
 			"key": "hipy_js_360影视[官]",
 			"name": "360影视[官](drpy_t3)",
@@ -25,6 +15,16 @@
 			"order_num": 0,
 			"ext": "./drpy_js/360影视[官].js"
 		},
+        {
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "./json/tokenm.json",
+			"order_num": 9999
+		},	
 		{
 			"key": "hipy_js_菜狗[官]",
 			"name": "菜狗[官](drpy_t3)",
