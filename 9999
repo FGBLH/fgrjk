@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_豆瓣[官]",
-			"name": "🍥┃豆瓣┃推荐🍥首次加载稍慢，请稍等片刻... ...",
+			"name": "🍥┃豆瓣┃推荐",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
