@@ -1,0 +1,42 @@
+name: 自动同步上游 FGBLH/fgrjk
+on:
+  schedule:
+    - cron: '0 0 * * *' # UTC 0点，北京时间每日早8点自动执行
+  workflow_dispatch:   # 支持页面手动一键触发同步
+
+permissions:
+  contents: write # 赋予读写权限，推送同步后的代码
+
+jobs:
+  sync_task:
+    runs-on: ubuntu-latest
+    steps:
+      # 拉取完整仓库所有提交记录
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 配置Git提交用户信息
+      - name: 配置Git账号
+        run: |
+          git config --global user.name "Sync Bot"
+          git config --global user.email "sync-bot@github.com"
+
+      # 添加上游原始仓库远程地址
+      - name: 绑定上游仓库
+        run: git remote add upstream https://github.com/FGBLH/fgrjk.git || true
+
+      # 拉取上游仓库全部更新
+      - name: 拉取上游更新
+        run: git fetch upstream
+
+      # 合并上游main分支，冲突优先采用上游文件
+      - name: 合并上游代码
+        run: |
+          git checkout main
+          git merge upstream/main -X theirs --allow-unrelated-histories
+
+      # 将合并后的代码推送到你当前仓库
+      - name: 推送更新到本仓库
+        run: git push origin main
