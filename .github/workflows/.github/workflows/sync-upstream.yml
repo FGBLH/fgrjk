@@ -1,8 +1,8 @@
 name: 自动同步上游 FGBLH/fgrjk
 on:
   schedule:
-    - cron: '0 0 * * *' # UTC 0点，北京时间每日早8点自动执行
-  workflow_dispatch:   # 支持页面手动一键触发同步
+    - cron: '0 22 * * *' # UTC22点，北京时间次日早上6点自动执行
+  workflow_dispatch: # 支持页面手动一键触发同步
 
 permissions:
   contents: write # 赋予读写权限，推送同步后的代码
